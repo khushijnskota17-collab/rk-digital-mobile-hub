@@ -2,3 +2,4 @@ streamlit
 pandas
 matplotlib
 SpeechRecognition
+streamlit-mic-recorder
