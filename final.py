@@ -248,7 +248,7 @@ elif page == "Shop Mobiles":
 
     if st.session_state.selected_brand is None:
         st.title("🛍️ Select Your Brand")
-        img_folder = r"C:\Users\lenovo\Desktop\New folder\minorproject\mobiles"
+        img_folder = "."
 
         brands_config = {
             "iPhone": "iphone.jpeg", "Samsung": "samsung.jpeg", "Realme": "realme.jpeg",
